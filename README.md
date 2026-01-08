@@ -1,4 +1,4 @@
-# Smart Warehouse AI
+# Smart Warehouse Robot Navigation
 
 A simulation of a smart warehouse using AI pathfinding algorithms (BFS and A*) to navigate a robot through shelves. This project demonstrates how AI can be applied in logistics and warehouse management.
 
@@ -17,27 +17,7 @@ The Smart Warehouse AI project simulates a warehouse environment where a robot m
 
 ---
 
-## 2. Folder Structure
-
-Smart-Warehouse-AI/
-│
-├── agents/
-│ ├── bfs.py # BFS algorithm
-│ └── astar.py # A* algorithm
-│
-├── environment/
-│ └── warehouse.py # Warehouse grid with shelves
-│
-├── images/ # Images for robot, shelf, floor
-│ ├── robot.png
-│ ├── shelf.png
-│ └── floor.png
-│
-├── main.py # Main GUI and simulation
-└── README.md
-## Steps to Run the Project
-
-Follow these steps to quickly set up and run the Smart Warehouse AI simulation:
+Follow these steps to quickly set up and run the Smart Warehouse Robot Navigation:
 
 1. **Clone the repository**
 ```bash
